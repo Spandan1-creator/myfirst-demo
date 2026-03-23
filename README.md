@@ -1,4 +1,4 @@
 # myfirst-demo
 This is my first Github repo.
 <br>
-Author - Spandan Shah
+Author - Spandan Shah.
